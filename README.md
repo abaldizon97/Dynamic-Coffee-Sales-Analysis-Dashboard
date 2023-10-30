@@ -17,3 +17,13 @@
 
 ## Deliverables:
 1. Interactive dashboard providing insights into coffee sales trends, geography-based sales, and top customer performance.
+
+
+## Final Outcome: 
+- Developed an interactive Excel dashboard utilizing pivot tables and slicers to analyze coffee sales data.
+- Displayed and tracked total sales trends over time, facilitating data-driven decision-making for the coffee business.
+- Categorized and visualized sales data by country, providing insights into geographical sales performance.
+- Identified the top 5 customers based on sales volume, contributing to customer relationship management strategies.
+- Implemented filters for order date, roast type, size, and customer loyalty card status to enable detailed data exploration.
+- Leveraged Excel to effectively manipulate and present complex data, improving overall business understanding.
+- Demonstrated proficiency in data analysis and data visualization techniques in a real-world business context.
